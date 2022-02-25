@@ -4,3 +4,7 @@ visit https://expo.dev/@jaymeeu/kuda_clone .
 scan the code in the URL above from the expo go application.
 
 enjoy...
+
+## Password
+
+Kindly use any six digits number.
